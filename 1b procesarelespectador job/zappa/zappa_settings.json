@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "app_function": "app.f",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "keep_warm":false,
+        "role_name":"LabRole",
+        "manage_roles":false,
+        "apigateway_enable":false,
+        "project_name": "zappa",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-mxi2klgps"
+    }
+}
